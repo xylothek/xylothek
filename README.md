@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @xylothek
 - 👀 I’m interested in .NET, .NET Core, JavaScript, TypeScript, Node.JS, Angular
-- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: boss@ismobile.eu
 
 <!---
